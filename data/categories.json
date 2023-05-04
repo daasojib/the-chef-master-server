@@ -1,0 +1,52 @@
+[
+          {
+            "id": 1,
+            "chef_picture": "https://media.licdn.com/dms/image/C4E22AQFcbame8fgamg/feedshare-shrink_800/0/1655719208240?e=2147483647&v=beta&t=Wfw4UiKxFk5Qb2TnLMrdAugGb8qzCfT4C0ZXDjisYfw",
+            "chef_name": "Sarun",
+            "years_of_experience": 10,
+            "number_of_recipes": 75,
+            "likes": 3000
+          },
+          {
+            "id": 2,
+            "chef_picture": "https://www.finedininglovers.com/sites/g/files/xknfdk626/files/styles/open_graph_image/public/2021-03/Pim%20Techamuanvivit.jpg?itok=7r9e5Ui8",
+            "chef_name": "Arunee",
+            "years_of_experience": 20,
+            "number_of_recipes": 150,
+            "likes": 8000
+          },
+          {
+            "id": 3,
+            "chef_picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Sirichalerm_Svasti.jpg/220px-Sirichalerm_Svasti.jpg",
+            "chef_name": "Somsak",
+            "years_of_experience": 5,
+            "number_of_recipes": 50,
+            "likes": 1500
+          },
+          {
+            "id": 4,
+            "chef_picture": "https://t0.gstatic.com/licensed-image?q=tbn:ANd9GcRgJTTuPLCJdLn7J8_5v44IWLIsAeuR8fiKL020udTRUZBAmM9xr3SJUkVNR6Q3Vyl2",
+            "chef_name": "Narin",
+            "years_of_experience": 12,
+            "number_of_recipes": 80,
+            "likes": 4000
+          },
+          {
+            "id": 5,
+            "chef_picture": "https://coconuts.co/wp-content/uploads/2018/08/beehead.jpg",
+            "chef_name": "Sirirat",
+            "years_of_experience": 8,
+            "number_of_recipes": 60,
+            "likes": 3514
+          }, 
+          {
+            "id": 6,
+            "chef_picture": "https://t3.gstatic.com/licensed-image?q=tbn:ANd9GcS5geHqkrXKuH79J0w7fd0V-ymgpAaRHScOzRoSCJdSeFdVf4qJJrVk2Zgj4Osr37wd",
+            "chef_name": "Somchai",
+            "years_of_experience": 15,
+            "number_of_recipes": 100,
+            "likes": 5000
+          }
+]
+
+        
