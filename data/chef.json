@@ -1,8 +1,8 @@
 [{
-    "id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "id": "1",
     "picture": "https://media.licdn.com/dms/image/C4E22AQFcbame8fgamg/feedshare-shrink_800/0/1655719208240?e=2147483647&v=beta&t=Wfw4UiKxFk5Qb2TnLMrdAugGb8qzCfT4C0ZXDjisYfw",
     "name": "Sarun",
-    "bio": "John Smith has been cooking professionally for over 20 years. He specializes in French cuisine and is known for his use of seasonal and locally-sourced ingredients.",
+    "bio": "Sarun has been cooking professionally for over 20 years. He specializes in French cuisine and is known for his use of seasonal and locally-sourced ingredients.",
     "likes": 1200,
     "num_recipes": 75,
     "years_exp": 20,
@@ -27,10 +27,10 @@
     ]
   },
   {
-    "id": "0282e0e58a5c404fbd15261f11c2ab6b",
+    "id": "2",
     "picture": "https://www.finedininglovers.com/sites/g/files/xknfdk626/files/styles/open_graph_image/public/2021-03/Pim%20Techamuanvivit.jpg?itok=7r9e5Ui8",
     "name": "Arunee",
-    "bio": "Maria Garcia is a master of Mexican cuisine. She has been cooking professionally for over 15 years and loves to incorporate bold flavors into her dishes.",
+    "bio": "Arunee is a master of Mexican cuisine. She has been cooking professionally for over 15 years and loves to incorporate bold flavors into her dishes.",
     "likes": 1500,
     "num_recipes": 90,
     "years_exp": 15,
@@ -55,10 +55,10 @@
     ]
   },
   {
-    "id": "f69a695f037cd9484cecaea37ca71011",
+    "id": "3",
     "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Sirichalerm_Svasti.jpg/220px-Sirichalerm_Svasti.jpg",
     "name": "Somsak",
-    "bio": "Samantha Lee is a pastry chef with a passion for creating beautiful and delicious desserts. She has worked in some of the best restaurants in the world and is known for her intricate designs.",
+    "bio": "Somsak is a pastry chef with a passion for creating beautiful and delicious desserts. She has worked in some of the best restaurants in the world and is known for her intricate designs.",
     "likes": 2000,
     "num_recipes": 50,
     "years_exp": 12,
@@ -83,10 +83,10 @@
     ]
   },
   {
-    "id": "f69a695f037cd9484cecaea37ca71012",
+    "id": "4",
     "picture": "https://t0.gstatic.com/licensed-image?q=tbn:ANd9GcRgJTTuPLCJdLn7J8_5v44IWLIsAeuR8fiKL020udTRUZBAmM9xr3SJUkVNR6Q3Vyl2",
     "name": "Narin",
-    "bio": "Juan Martinez is a Mexican chef who has a deep love for traditional Mexican cuisine. He has spent years studying under some of the best chefs in Mexico and is known for his authentic and flavorful dishes.",
+    "bio": "Narin is a Mexican chef who has a deep love for traditional Mexican cuisine. He has spent years studying under some of the best chefs in Mexico and is known for his authentic and flavorful dishes.",
     "likes": 500,
     "num_recipes": 20,
     "years_exp": 8,
@@ -111,10 +111,10 @@
     ]
   },
   {
-    "id": "11468ed61aee84de492a8b04158a22f9",
+    "id": "5",
     "picture": "https://coconuts.co/wp-content/uploads/2018/08/beehead.jpg",
     "name": "Sirirat",
-    "bio": "Samantha Lee is a renowned pastry chef who specializes in creating stunning and whimsical desserts. She is known for her intricate and detailed designs that often incorporate popular characters and themes.",
+    "bio": "Sirirat is a renowned pastry chef who specializes in creating stunning and whimsical desserts. She is known for her intricate and detailed designs that often incorporate popular characters and themes.",
     "likes": 1000,
     "num_recipes": 15,
     "years_exp": 10,
@@ -139,10 +139,10 @@
     ]
   },
   {
-    "id": "11468ed61aee84de492a8b04158a22f0",
+    "id": "6",
     "picture": "https://t3.gstatic.com/licensed-image?q=tbn:ANd9GcS5geHqkrXKuH79J0w7fd0V-ymgpAaRHScOzRoSCJdSeFdVf4qJJrVk2Zgj4Osr37wd",
     "name": "Somchai",
-    "bio": "Juan Rodriguez is a master of Mexican cuisine, specializing in creating traditional dishes with a modern twist. He has worked in some of the top restaurants in Mexico City and has won several awards for his innovative and delicious creations.",
+    "bio": "Somchai is a master of Mexican cuisine, specializing in creating traditional dishes with a modern twist. He has worked in some of the top restaurants in Mexico City and has won several awards for his innovative and delicious creations.",
     "likes": 2000,
     "num_recipes": 25,
     "years_exp": 15,
